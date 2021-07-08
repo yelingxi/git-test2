@@ -9,7 +9,8 @@ public class gitTest {
         System.out.println("master update!");
         System.out.println("hot fix!");
         System.out.println("master test!");
-        System.out.println("master test!");
+        System.out.println("master testtest!");
+        System.out.println("hot-fix testtest!");
     }
 
 }
